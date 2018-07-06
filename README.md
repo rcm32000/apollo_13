@@ -5,9 +5,9 @@ This Rails application is intended to be used as an opportunity for students to 
 Fork this repository and clone your newly created repository. At the end of one hour, push your code to your repository and create a pull request to this repository.
 
 ## User Stories
-Run commands to setup your database.
-Use TDD to implement the following user stories.
-Validation tests are not necessary; however, if model methods are written, don't forget to test them!
+* Run commands for initial setup. 
+* Use TDD to implement the following user stories.
+* Validation tests are not necessary; however, if model methods are written, don't forget to test them!
 
 ```
 As a visitor,
