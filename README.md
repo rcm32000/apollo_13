@@ -1,4 +1,4 @@
-# Space Mission
+# Apollo 13
 
 This Rails application is intended to be used as an opportunity for students to measure their own learning from week 2 of module 2 of the back-end program of the Turing School of Software & Design.
 
@@ -15,7 +15,8 @@ When I visit '/astronauts'
 I see a list of astronauts with the following info:
  - Name
  - Age
- - Job  
+ - Job
+ (e.g. "Name: Neil Armstrong" Age: 37 Job: Commander")
 ```
 
 ```
@@ -29,6 +30,9 @@ I see the average age of all astronauts.
 As a visitor,
 When I visit '/astronauts'
 I see a list of the space missions' in alphabetical order for each astronaut.
+(e.g "Apollo 13"
+     "Capricorn 4"
+     "Gemini 7")
 ```
 
 ```
