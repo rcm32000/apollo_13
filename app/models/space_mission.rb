@@ -1,0 +1,2 @@
+class SpaceMission < ApplicationRecord
+end
